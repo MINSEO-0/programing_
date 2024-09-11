@@ -7,5 +7,17 @@ int main(int argc, char *argv[]) {
 	
 	printf("Hello, Sookmyung Electronics!\n");
 	
+	
+	int a; // 첫번째 정수를 저장할 변수
+	
+	int b; // 두번째 정수를 저장할 변수
+	
+	a = 10;
+	
+	b = 20;
+	
+	printf("%d + %d = %d\n", a, b, a+b);
+	
+	 
 	return 0;
 }
