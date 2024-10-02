@@ -14,7 +14,7 @@ int main(void) {
 	scanf("%f", &input_float);
 	
 	printf("integer : %d, float : %f\n", input_int, input_float);
-	
+	0
 	return 0;
 
 }
