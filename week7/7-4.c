@@ -25,11 +25,12 @@ int get_integer(){
 
 int main(void) {
 	int n, r;
+	int result=0;
 	n=get_integer();
 	r=get_integer();
-	combination(n,r);
+	result=combination(n,r);
 	
-	printf("The result of C(%i, %i) is %i", n, r, combination(n,r));
+	printf("The result of C(%i, %i) is %i.", n, r, result);
 	
 	return 0;
 }
