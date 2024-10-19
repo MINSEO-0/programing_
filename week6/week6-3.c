@@ -5,7 +5,7 @@
 
 int main(int argc, char *argv[]) {
 	
-	int num;
+	int num=0;
 	char c;
 	
 	printf("Input a string: ");
