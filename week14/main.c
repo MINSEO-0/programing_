@@ -265,6 +265,7 @@ int main(int argc, const char * argv[]) {
 			board_stepShark();
 			board_printBoardStatus();
 			checkDie();
+			
 			printPlayerStatus();		
 		
 // ----- EX. 6 : game end ------------
