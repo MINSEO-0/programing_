@@ -19,7 +19,7 @@
 // ----- EX. 3 : board ------------
 #define MAX_DIE             6
 #define MAX_COIN            4
-#define MAX_SHARK_POSITION  19
+#define MAX_SHARK_POSITION  18
 
 // ----- EX. 4 : player ------------
 #define PLAYERSTATUS_LIVE   0
